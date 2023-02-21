@@ -1,4 +1,6 @@
-# Early Life Stress, Life Events and Birth Outcomes in Argentinian Mothers
+# Early Life Stress, Life Events and Birth Outcomes in Argentinian Mothers  
+
+[![DOI](https://zenodo.org/badge/599991392.svg)](https://zenodo.org/badge/latestdoi/599991392)
 
 
 
